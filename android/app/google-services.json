@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54691102377",
+    "project_id": "academiview-c16db",
+    "storage_bucket": "academiview-c16db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54691102377:android:b3eeeb7955ce3470c773b8",
+        "android_client_info": {
+          "package_name": "com.example.academiview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMNPMJqJWhm5EAKJ_n3EKyOOIeXCO5WlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
